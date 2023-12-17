@@ -1,6 +1,6 @@
 print("Welcome to the test!")
 
-playing = input("Are you readt to start the game? ")
+playing = input("Are you ready to start the game? ")
 
 if playing.lower() != "yes":
     quit()
